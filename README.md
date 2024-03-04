@@ -11,7 +11,7 @@
 ```
 git clone https://github.com/dog1912/Spotify-Music-Downloader-Telegram-Bot.git
 ```
-<p>2. Add paramener to config.json</p>
+<p>2. Сhange paramener to config.json</p>
 
 - YOUR PASSWORD - This is your password for authorisation. This bot isn't public because the api has a restriction.
 - API_TOKEN - You can generate with [BotFather](https://t.me/BotFather)
