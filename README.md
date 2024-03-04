@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/dog1912/Spotify-Music-Downloader-Telegram-Bot/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">This is project to download music from Spotify via Telegram. This repository was created and tested on Python3.10 and Ubuntu 22.04.3 LTS </p>
+<p id="description">This is a project that allows you to download music from Spotify via Telegram. This repository was created and tested on Python3.10 and Ubuntu 22.04.3 LTS </p>
 
 <h2>🛠️ Installation Steps:</h2>
 
